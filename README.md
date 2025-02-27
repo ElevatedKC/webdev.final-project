@@ -1,1 +1,2 @@
 # webdev.final-project
+This is a final project for the TKH Foundations Cohort. This project includes examples of the students knowledge of languages such as HTML and CSS. The project is a representation of the free spirited nature of the client. The final project is colorful and vibrant, and is very dreamy, by entering this website you step into the colorful world of the client and get to know a bit about their background and strong desire to learn!
