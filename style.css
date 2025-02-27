@@ -1,0 +1,54 @@
+
+
+
+  .header  {
+    font-family: monospace;
+    background: #3FD, #31A58A, #216D5C;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    justify-content: space-evenly;
+   
+  }
+ 
+  
+  .Logo {
+    height: 275px;
+  }
+ 
+  ul {
+    /* this removes the dots on the list items*/
+    list-style-type: none;
+    display: flex;
+    /* gap: 8px;
+     margin: 0;
+    padding: 0%; */
+  }
+ p{
+  text-align:left;
+ }
+  a {
+    font-size: 22px;
+    background: white;
+    padding: 8px;
+    /* this removes the line under the links */
+    text-decoration: none;
+    margin-right: 12px;}
+
+    body {
+      background: linear-gradient(to bottom, #3FD, #31A58A, #216D5C);
+  }
+
+  h1 {
+    text-align: center;
+}
+ 
+
+    
+    
+    
+    
+    
+    
+  
+  
